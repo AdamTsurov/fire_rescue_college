@@ -1,15 +1,16 @@
 const themeColors = {
 	maintheme: {
-		backgroundcolors: {
+		colors: {
 			main: '#FFFFFF',
 			header: '#2C3944',
 			footer: '#2E7D32',
 			elements: '#2C3944',
 			dedicatedElements:'#2196F3'
+			
 		},
 	},
 	whiteorblacktheme: {
-		backgroundcolors: {
+		colors: {
 			main: '#FFFFFF',
 			elements: '#000000',
 		},
@@ -18,7 +19,7 @@ const themeColors = {
 		},
 	},
 	blackorwhitetheme: {
-		backgroundcolors: {
+		colors: {
 			main: '#000000',
 			elements: '#FFFFFF',
 		},
@@ -27,7 +28,7 @@ const themeColors = {
 		},
 	},
 	yellowtheme: {
-		backgroundcolors: {
+		colors: {
 			main: '#FFFFFF',
 			elements: '#FFFF00',
 		},
@@ -36,7 +37,7 @@ const themeColors = {
 		},
 	},
 	bluetheme: {
-		backgroundcolors: {
+		colors: {
 			main: '#9FD7FF',
 			elements: '#143C5A',
 			dedicatedElements:'#9FD7FF'
